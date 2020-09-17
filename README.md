@@ -6,8 +6,8 @@ A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).
 
 # How to Use
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
+For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
+or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
 - **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
@@ -27,6 +27,24 @@ If you would like to report a bug, ask a question, request a feature, feel free 
 Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/forty-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/forty-jekyll-theme@incoming.gitlab.com).
 
 The GitHub repository is simply a mirror of the GitLab repository.
+
+# Contributing
+
+All contributions, including merge requests, feature requests, ideas, design tweaks, etc. are welcome.
+I welcome all input, from sharing your own implementations of code to general thoughts and ideas. Just open a new issue!
+
+## Feature Requests
+
+Feature requests are always welcome! If Jekyll can do it and if the theme's design would work well with it, then I would love to add it. Of course,
+code submission via a merge/pull request is great, but not necessary.
+
+## Bug Reports
+
+If you encounter any issues with these themes on any devices, please submit a bug report with the device type and a detailed description of what
+the issue that you're encountering is.
+<br /><br />
+
+*Thank you*
 
 # Credits
 
