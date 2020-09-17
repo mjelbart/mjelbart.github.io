@@ -1,12 +1,12 @@
 ---
-title: Michael Jelbart
+title: Otaniemi Augmented Reality Gallery
 layout: landing
 description: 'Mixed Reality Developer'
-image: assets/images/ar-business-card_urs_01.PNG
+image: assets/images/ARGallery01.png
 nav-menu: true
 ---
 
-<!-- Main -->
+<!-- Main assets/images/ar-business-card_urs_01.PNG -->
 <div id="main">
 
 <!-- One -->

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Photogrammetry
+image: assets/images/costume03.jpg
 nav-menu: true
 ---
 
