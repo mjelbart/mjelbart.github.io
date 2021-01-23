@@ -24,8 +24,8 @@ nav-menu: true
 		<p>"In this sci-fi inspired costume, different innovative cellulose materials – from natural cellulose fibres and nano technology to natural dyes and wood-based shimmering colours – come together to demonstrate the usability of bio-based materials for stage and film costume design." We created a photogrammetric model of the costume and presented it in AR for advertising for the Helsinki Design Week exhibition and to make it more accessible during the COVID-19 lockdown.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Rock stack</h3>
+		<p>Here are some rocks we stacked to test creating photogrammetry models with Meshroom.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
