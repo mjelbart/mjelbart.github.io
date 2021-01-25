@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Photogrammetry</h2>
-<p>I have created several 3D models with photogrammetry.</p>
+<p>Photogrammetry is about collecting data using photos but here I use it just to refer to creating 3D models from photos. I created the models below using <a href="https://github.com/alicevision/meshroom">Meshroom</a> and <a href="https://blender.org">Blender</a>. Since 2020, devices with LIDAR like the <a href="https://varjo.com/products/xr-3/">Varjo XR-3</a>, iPhone 12 Pro and iPad Pro 2020 make it much easier to create 3D models from real life objects.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>SRU Costume by Urs Dierker</h3>
