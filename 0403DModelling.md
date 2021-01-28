@@ -15,12 +15,75 @@ nav-menu: true
 		<header class="major">
 			<h2>Values</h2>
 		</header>
-		<p>I focus on creating empowering XR experiences for social and environmental kindness.</p>
+		<p>I have been learning 3D modelling as a hobby for many years and have used it in a few projects.</p>
 	</div>
 </section>
 
 <!-- Two -->
 
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/costume01_small02.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Elephant - low poly model for 3D printing</h3>
+				</header>
+				<p>A low poly elephant for <a href="https://www.youtube.com/watch?v=G-64TGEd5ds">Mitwy's</a> plant watering reminder.</p>
+				<!-- ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul -->
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Mountains and caves for Everskye VR demo</h3>
+				</header>
+				<p>Everskye is a story driven VR adventure game that provides an exhilarating flying experience through spectacular landscapes.</p>
+				<!-- ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul -->
+			</div>
+		</div>
+	</section>
+
+
+	<section>
+		<a href="generic.html" class="image">
+		<model-viewer src="https://cdn.glitch.com/dc8e6e1b-0594-4b12-bf80-ec4486e6a707%2Fsantabox05.glb?v=1607586022620"
+                  ios-src=""
+                  alt=""
+                  autoplay
+                  shadow-intensity="1"
+                  camera-controls
+                  interaction-prompt="auto"
+                  auto-rotate ar magic-leap>
+      <div id="lazy-load-poster" slot="poster"></div>
+    </model-viewer>
+			<!-- img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" / -->
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Santa</h3>
+				</header>
+				<p>A Santa-in-a-box I created for as an AR Christmas card.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
 
 <!-- Three -->
 
