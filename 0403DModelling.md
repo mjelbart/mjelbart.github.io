@@ -48,15 +48,15 @@ nav-menu: true
 
 
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<a href="https://santabox.glitch.me/" class="image">
 			<img src="{% link assets/images/santabox.png %}" alt="" data-position="25% 25%" />
-		<!-- </a> -->
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Santa</h3>
 				</header>
-				<p>A Santa-in-a-box I created for as an AR Christmas card.</p>
+				<p>An animated Santa-in-a-box I created for as an AR Christmas card.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -66,8 +66,8 @@ nav-menu: true
 </section>
 
 <section>
-	<!-- <a href="generic.html" class="image"> -->
-	<model-viewer src="https://cdn.glitch.com/dc8e6e1b-0594-4b12-bf80-ec4486e6a707%2Fsantabox05.glb?v=1607586022620"
+
+	<model-viewer src="{% link assets/models/santabox.glb %}"
 								ios-src=""
 								alt=""
 								autoplay
@@ -77,20 +77,22 @@ nav-menu: true
 								auto-rotate ar magic-leap>
 		<div id="lazy-load-poster" slot="poster"></div>
 	</model-viewer>
-		<!-- img src="{% link assets/images/santabox.png %}" alt="" data-position="25% 25%" / -->
-	<!-- </a> -->
+		<!-- img src="{% link assets/models/santabox.glb %}" alt="" data-position="25% 25%" / -->
+
 	<div class="content">
 		<div class="inner">
 			<header class="major">
 				<h3>Santa</h3>
 			</header>
-			<p>A Santa-in-a-box I created for as an AR Christmas card.</p>
+			<p>An animated Santa-in-a-box I created for as an AR Christmas card.</p>
 			<ul class="actions">
 				<li><a href="generic.html" class="button">Learn more</a></li>
 			</ul>
 		</div>
 	</div>
 </section>
+
+
 </section>
 
 
