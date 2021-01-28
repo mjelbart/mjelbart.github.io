@@ -1,7 +1,7 @@
 ---
 title: 3D Modelling
 layout: landing
-description: '3D Modelling'
+description: 'I have been learning 3D modelling as a hobby for many years and have used it in a few projects.'
 image: assets/images/ARGallery01.png
 nav-menu: true
 ---
@@ -10,22 +10,12 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Values</h2>
-		</header>
-		<p>I have been learning 3D modelling as a hobby for many years and have used it in a few projects.</p>
-	</div>
-</section>
 
-<!-- Two -->
-
-<section id="two" class="spotlights">
+<section id="one" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<!-- <a href="generic.html" class="image"> -->
 			<img src="{% link assets/images/costume01_small02.jpg %}" alt="" data-position="center center" />
-		</a>
+		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -40,9 +30,9 @@ nav-menu: true
 	</section>
 
 	<section>
-		<a href="generic.html" class="image">
+		<!-- <a href="generic.html" class="image"> -->
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
+		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -58,19 +48,9 @@ nav-menu: true
 
 
 	<section>
-		<a href="generic.html" class="image">
-		<model-viewer src="https://cdn.glitch.com/dc8e6e1b-0594-4b12-bf80-ec4486e6a707%2Fsantabox05.glb?v=1607586022620"
-                  ios-src=""
-                  alt=""
-                  autoplay
-                  shadow-intensity="1"
-                  camera-controls
-                  interaction-prompt="auto"
-                  auto-rotate ar magic-leap>
-      <div id="lazy-load-poster" slot="poster"></div>
-    </model-viewer>
-			<!-- img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" / -->
-		</a>
+		<!-- <a href="generic.html" class="image"> -->
+			<img src="{% link assets/images/santabox.png %}" alt="" data-position="25% 25%" />
+		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -84,6 +64,35 @@ nav-menu: true
 		</div>
 	</section>
 </section>
+
+<section>
+	<!-- <a href="generic.html" class="image"> -->
+	<model-viewer src="https://cdn.glitch.com/dc8e6e1b-0594-4b12-bf80-ec4486e6a707%2Fsantabox05.glb?v=1607586022620"
+								ios-src=""
+								alt=""
+								autoplay
+								shadow-intensity="1"
+								camera-controls
+								interaction-prompt="auto"
+								auto-rotate ar magic-leap>
+		<div id="lazy-load-poster" slot="poster"></div>
+	</model-viewer>
+		<!-- img src="{% link assets/images/santabox.png %}" alt="" data-position="25% 25%" / -->
+	<!-- </a> -->
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>Santa</h3>
+			</header>
+			<p>A Santa-in-a-box I created for as an AR Christmas card.</p>
+			<ul class="actions">
+				<li><a href="generic.html" class="button">Learn more</a></li>
+			</ul>
+		</div>
+	</div>
+</section>
+</section>
+
 
 <!-- Three -->
 
