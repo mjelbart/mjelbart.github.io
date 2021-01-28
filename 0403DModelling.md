@@ -57,17 +57,15 @@ nav-menu: true
 					<h3>Santa</h3>
 				</header>
 				<p>An animated Santa-in-a-box I created for as an AR Christmas card.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
 </section>
 
 <section>
-
-	<model-viewer src="{% link assets/models/santabox.glb %}"
+<div class="content">
+	<div class="inner">
+	<model-viewer src="{% link assets/models/santabox.glb %}" data-position="25% 25%" /
 								ios-src=""
 								alt=""
 								autoplay
@@ -77,22 +75,9 @@ nav-menu: true
 								auto-rotate ar magic-leap>
 		<div id="lazy-load-poster" slot="poster"></div>
 	</model-viewer>
-		<!-- img src="{% link assets/models/santabox.glb %}" alt="" data-position="25% 25%" / -->
 
-	<div class="content">
-		<div class="inner">
-			<header class="major">
-				<h3>Santa</h3>
-			</header>
-			<p>An animated Santa-in-a-box I created for as an AR Christmas card.</p>
-			<ul class="actions">
-				<li><a href="generic.html" class="button">Learn more</a></li>
-			</ul>
 		</div>
 	</div>
-</section>
-
-
 </section>
 
 
