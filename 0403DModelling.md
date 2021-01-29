@@ -2,7 +2,7 @@
 title: 3D Modelling
 layout: landing
 description: 'A hobby of mine for many years that I have used in a few projects.'
-image: assets/images/ARGallery01.png
+image: assets/images/santabox.png
 nav-menu: true
 ---
 
