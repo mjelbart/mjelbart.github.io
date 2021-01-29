@@ -28,12 +28,33 @@ nav-menu: true
 					<h3>WordPig Language Learning VR</h3>
 				</header>
 				<p>Imagine being immersed in a world where you could look at anything and see words to speak about it. At a distance you see individual words, transitioning to phrases as you approach and look closer. That's the dream with WordPig (working title).</p>
+        <p>Status: tech demo</p>
 				<!-- ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul -->
 			</div>
 		</div>
 	</section>
+
+
+<section>
+  <!-- <a href="generic.html" class="image"> -->
+    <img src="{% link assets/images/blue512.png %}" alt="" data-position="top center" />
+  <!-- </a> -->
+  <div class="content">
+    <div class="inner">
+      <header class="major">
+        <h3>VR Lab Equipment</h3>
+      </header>
+      <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/3Iog89yVh34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      <!-- ul class="actions">
+        <li><a href="generic.html" class="button">Learn more</a></li>
+      </ul -->
+    </div>
+  </div>
+</section>
+
 
 	<section>
 		<!-- <a href="generic.html" class="image"> -->

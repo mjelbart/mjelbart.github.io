@@ -50,7 +50,14 @@ show_tile: false
 
 		</div>
 	</div>
-</section>	
+</section>
+
+<!--
+  vr lab equipment
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3Iog89yVh34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+urs costume
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QomYoaxt66c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-- >
 
 </section>
 
