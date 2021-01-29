@@ -9,6 +9,12 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
+<!-- <p> If you are interested in XR here are some information sources I follow
+<ul>
+<li><a href="https://www.reddit.com/r/AR_MR_XR/">r/AR_MR_XR</a> </li>
+<li><a href="https://voicesofvr.com/">Voices of VR podcast</a></li>
+</ul>
+</p>-->
 <!-- One -->
 
 <section id="one" class="spotlights">
