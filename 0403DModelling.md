@@ -14,7 +14,7 @@ nav-menu: true
 <section id="one" class="spotlights">
 	<section>
 		<!-- <a href="generic.html" class="image"> -->
-			<img src="{% link assets/images/costume01_small02.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/blue512.png %}" alt="" data-position="center center" />
 		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
@@ -31,7 +31,7 @@ nav-menu: true
 
 	<section>
 		<!-- <a href="generic.html" class="image"> -->
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/blue512.png %}" alt="" data-position="top center" />
 		<!-- </a> -->
 		<div class="content">
 			<div class="inner">

@@ -1,12 +1,12 @@
 ---
-title: 3D Modelling
+title: XR Projects
 layout: landing
-description: 'A hobby of mine for many years that I have used in a few projects.'
-image: assets/images/ARGallery01.png
+description: ''
+image: assets/images/blue512.png
 nav-menu: true
 ---
 
-<!-- Main assets/images/ar-business-card_urs_01.PNG -->
+<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -54,9 +54,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>.</h3>
+					<h3>3D Tumor Models in the Hololens</h3>
 				</header>
-				<p>.</p>
+				<p>The first work I did for XR was creating 3D tumor models from CT scans for display in the Microsoft HoloLens. CT scan data was converted to rough 3D models using <a href="https://www.slicer.org/">Slicer</a> then refined in <a href="https://blender.org">Blender</a>. If you have CT scan data and would like to try this yourself, <a href="https://www.youtube.com/watch?v=MKLWzD0PiIc">here is a tutorial on using Slicer</a>.</p>
 			</div>
 		</div>
 	</section>
