@@ -39,7 +39,7 @@ nav-menu: true
 
 <section>
   <!-- <a href="generic.html" class="image"> -->
-    <img src="{% link assets/images/blue512.png %}" alt="" data-position="top center" />
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/3Iog89yVh34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <!-- </a> -->
   <div class="content">
     <div class="inner">
@@ -47,7 +47,8 @@ nav-menu: true
         <h3>VR Lab Equipment</h3>
       </header>
       <p>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/3Iog89yVh34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      Paragraph text
+      </p>
       <!-- ul class="actions">
         <li><a href="generic.html" class="button">Learn more</a></li>
       </ul -->
