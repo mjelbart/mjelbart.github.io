@@ -47,7 +47,7 @@ nav-menu: true
         <h3>VR Lab Equipment</h3>
       </header>
       <p>
-      Paragraph text
+      Testing out making a piece of lab equipment using the <a href="https://wiki.beardedninjagames.com/​">VR Interaction Framework</a>.
       </p>
       <!-- ul class="actions">
         <li><a href="generic.html" class="button">Learn more</a></li>
