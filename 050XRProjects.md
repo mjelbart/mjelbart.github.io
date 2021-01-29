@@ -14,14 +14,14 @@ nav-menu: true
 <section id="one" class="spotlights">
 	<section>
 		<!-- <a href="generic.html" class="image"> -->
-			<img src="{% link assets/images/costume01_small02.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/blue512.png %}" alt="" data-position="center center" />
 		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Elephant - low poly model for 3D printing</h3>
+					<h3>WordPig Language Learning VR</h3>
 				</header>
-				<p>A low poly elephant for <a href="https://www.youtube.com/watch?v=G-64TGEd5ds">Mitwy's</a> plant watering reminder.</p>
+				<p>Imagine being immersed in a world where you could look at anything and see words to speak about it. At a distance you see individual words, transitioning to phrases as you approach and look closer. That's the dream with WordPig (working title).</p>
 				<!-- ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul -->
@@ -31,14 +31,14 @@ nav-menu: true
 
 	<section>
 		<!-- <a href="generic.html" class="image"> -->
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/blue512.png %}" alt="" data-position="top center" />
 		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Mountains and caves for Everskye VR demo</h3>
+					<h3>DBYSUS</h3>
 				</header>
-				<p>Everskye is a story driven VR adventure game that provides an exhilarating flying experience through spectacular landscapes.</p>
+				<p>.</p>
 				<!-- ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul -->
@@ -48,19 +48,20 @@ nav-menu: true
 
 
 	<section>
-		<a href="https://santabox.glitch.me/" class="image">
-			<img src="{% link assets/images/santabox.png %}" alt="" data-position="25% 25%" />
-		</a>
+		<!-- a href="" class="image" -->
+			<img src="{% link assets/images/blue512.png %}" alt="" data-position="25% 25%" />
+		<!-- /a -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Santa</h3>
+					<h3>.</h3>
 				</header>
-				<p>An animated Santa-in-a-box I created for as an AR Christmas card.</p>
+				<p>.</p>
 			</div>
 		</div>
 	</section>
 </section>
+
 
 <!-- Three -->
 
