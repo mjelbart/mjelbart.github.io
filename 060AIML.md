@@ -9,6 +9,18 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
+
+
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<!-- header class="major">
+			<h1>Photogrammetry</h1>
+		</header -->
+
+<!-- Content -->
+<!-- h2 id="content">Photogrammetry</h2 -->
 <p>I am a keen follower of AI and ML but have yet to complete any projects using them. If you are interested in AI and ML here are some information sources.
 <ul>
 <li><a href="https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg">Two Minute Papers</a> on YouTube</li>
@@ -19,32 +31,8 @@ nav-menu: true
 </ul>
 </p>
 
-<!-- One -->
-
-<!--
-<section id="one" class="spotlights">
-
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/blue512.png %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>   title      </h3>
-				</header>
-				<p>   text    </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-
+</div>
 </section>
--->
-
-<!-- Three -->
 
 
 </div>
