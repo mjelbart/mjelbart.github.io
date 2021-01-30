@@ -22,7 +22,7 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>SRU Costume by Urs Dierker</h3>
 		<p>We created a photogrammetric model of the costume and presented it in AR for advertising for the Helsinki Design Week exhibition and to make it more accessible during the COVID-19 lockdown. <a href="https://naturallydramatic-bicmat-aaltouniversity.glitch.me/">View on Glitch.com</a></p>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/3Iog89yVh34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/QomYoaxt66c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Rock stack</h3>
