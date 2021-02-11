@@ -60,6 +60,21 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
+	<section>
+		<!-- a href="" class="image" -->
+			<img src="{% link assets/images/fish_toon.png %}" alt="" data-position="25% 25%" />
+		<!-- /a -->
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Fish</h3>
+				</header>
+				<p>A fish.</p>
+			</div>
+		</div>
+	</section>
+
 </section>
 
 <!-- Three -->
