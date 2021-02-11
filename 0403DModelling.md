@@ -62,7 +62,7 @@ nav-menu: true
 	</section>
 
 	<section>
-				<img src="{% link assets/images/fish_toon.png %}" alt="" data-position="25% 25%" />
+				<img src="{% link assets/images/fish_toon2.png %}" alt="" data-position="25% 25%" />
 
 		<div class="content">
 			<div class="inner">
