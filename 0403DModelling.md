@@ -62,9 +62,8 @@ nav-menu: true
 	</section>
 
 	<section>
-		<!-- a href="" class="image" -->
-			<img src="{% link assets/images/fish_toon.png %}" alt="" data-position="25% 25%" />
-		<!-- /a -->
+				<img src="{% link assets/images/fish_toon.png %}" alt="" data-position="25% 25%" />
+
 		<div class="content">
 			<div class="inner">
 				<header class="major">
