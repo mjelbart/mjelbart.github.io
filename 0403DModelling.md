@@ -61,21 +61,7 @@ nav-menu: true
 		</div>
 	</section>
 
-	<section>
-	<video controls width="250">
 
-    <source src="{% link assets/images/fluid_sim.webm %}"
-            type="video/webm">
-						</video>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Fluid simulation</h3>
-				</header>
-				<p>Fluid simulation</p>
-			</div>
-		</div>
-	</section>
 
 
 	<section>
@@ -91,6 +77,22 @@ nav-menu: true
 		</div>
 	</section>
 
+</section>
+
+<section>
+<video controls width="250">
+
+	<source src="{% link assets/images/fluid_sim.webm %}"
+					type="video/webm">
+					</video>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>Fluid simulation</h3>
+			</header>
+			<p>Fluid simulation</p>
+		</div>
+	</div>
 </section>
 
 <!-- Three -->
