@@ -62,6 +62,23 @@ nav-menu: true
 	</section>
 
 	<section>
+	<video controls width="250">
+
+    <source src="{% link assets/images/fluid_sim.webm %}"
+            type="video/webm">
+						</video>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Fluid simulation</h3>
+				</header>
+				<p>Fluid simulation</p>
+			</div>
+		</div>
+	</section>
+
+
+	<section>
 				<img src="{% link assets/images/fish_toon2.png %}" alt="" data-position="25% 25%" />
 
 		<div class="content">
